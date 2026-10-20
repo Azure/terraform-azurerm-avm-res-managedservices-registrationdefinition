@@ -1,3 +1,3 @@
-# terraform-azurerm-avm-template
+# Registration Definition (Lighthouse)
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Resource Module for Registration Definition (Lighthouse)
